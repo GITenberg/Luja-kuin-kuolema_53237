@@ -1,11 +1,14 @@
 _repo: Luja-kuin-kuolema_53237
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Fort comme la mort. Finnish
 contributor:
   translator:
     agent_name: Rominus, G. G.
     gutenberg_agent_id: '47282'
     url: http://www.gutenberg.org/2009/agents/47282
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -18,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53237#Luja-kuin-kuolema
 gutenberg_issued: '2016-10-09'
 gutenberg_type: Text
 identifiers:
